@@ -7,3 +7,5 @@
 # Now I try some more text
 
 # I added this text on Github
+
+# add a line in one go
